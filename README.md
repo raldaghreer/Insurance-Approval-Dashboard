@@ -22,3 +22,10 @@ The dataset is **fake** and does not represent real patient or insurance data.
 2. Open it in Power BI Desktop  
 3. Load the Excel file if needed  
 4. Explore the visuals and filters  
+## Dashboard Preview
+
+![Approval Summary](Screenshots/overall summary.png)
+![KPIs](Screenshots/kpis.png)
+![Department Performance](Screenshots/approval vs dep.png)
+![Rejection Rate](Screenshots/rejection rate.png)
+![Insurance Cost](Screenshots/cost by insurance.png)
