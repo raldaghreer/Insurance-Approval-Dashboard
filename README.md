@@ -12,19 +12,20 @@ The dataset used is a **fake Excel file** created only for practice and demonstr
 ## Dashboard Preview
 
 ### Overall Summary
-![Overall Summary](Screenshots/overall%20summary.png)
+![Overall Summary](overall%20summary.png)
 
 ### KPIs
-![KPIs](Screenshots/kpis.png)
+![KPIs](kpis.png)
 
 ### Approval Rate by Department
-![Approval Rate](Screenshots/approval%20vs%20dep.png)
+![Approval Rate](approval%20vs%20dep.png)
 
 ### Rejection Rate by Department
-![Rejection Rate](Screenshots/rejection%20rate.png)
+![Rejection Rate](rejection%20rate.png)
 
 ### Cost by Insurance Company
-![Cost by Insurance](Screenshots/cost%20by%20insurance.png)
+![Cost by Insurance](cost%20by%20insurance.png)
+
 
 ## Files Included
 - `Dashboard.pbix` – Power BI report  
