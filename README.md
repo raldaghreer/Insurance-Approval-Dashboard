@@ -15,7 +15,7 @@ The dataset used is a **fake Excel file** created only for practice and demonstr
 ![Overall Summary](overall%20summary.png)
 
 ### KPIs
-![KPIs](kpis.png)
+![KPIs](KPIs.png)
 
 ### Approval Rate by Department
 ![Approval Rate](approval%20vs%20dep.png)
