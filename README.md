@@ -1,6 +1,6 @@
 # Insurance Approval Dashboard
 
-This Power BI dashboard provides a simple analysis of approval and rejection rates across medical departments and insurance companies.  
+This Power BI dashboard provides a clear analysis of approval and rejection rates across medical departments and insurance companies.  
 The dataset used is a **fake Excel file** created only for practice and demonstration.
 
 ## Features
@@ -11,26 +11,13 @@ The dataset used is a **fake Excel file** created only for practice and demonstr
 
 ## Dashboard Preview
 
-### Overall Summary
-![Overall Summary](overall%20summary.png)
-
-### KPIs
-![KPIs](KPIs.png)
-
-### Approval Rate by Department
-![Approval Rate](approval%20vs%20dep.png)
-
-### Rejection Rate by Department
-![Rejection Rate](rejection%20rate.png)
-
-### Cost by Insurance Company
-![Cost by Insurance](cost%20by%20insurance.png)
-
+### Full Dashboard Overview
+![Dashboard Overview](Insurance-Approval-Dashboard-page-00001.jpg)
 
 ## Files Included
 - `Dashboard.pbix` – Power BI report  
-- `Fake_Data.xlsx` – Sample dataset  
-- `Screenshots/` – Dashboard preview images  
+- `approval_data_base.xlsx` – Sample dataset  
+- `Insurance-Approval-Dashboard-page-00001.jpg` – Dashboard preview image  
 
 ## Dataset Notice
 The dataset is **fake** and does not represent real patient or insurance data.
