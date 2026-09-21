@@ -9,6 +9,23 @@ The dataset used is a **fake Excel file** created only for practice and demonstr
 - Insurance company cost breakdown  
 - Key KPIs for quick insights  
 
+## Dashboard Preview
+
+### Overall Summary
+![Overall Summary](Screenshots/overall%20summary.png)
+
+### KPIs
+![KPIs](Screenshots/kpis.png)
+
+### Approval Rate by Department
+![Approval Rate](Screenshots/approval%20vs%20dep.png)
+
+### Rejection Rate by Department
+![Rejection Rate](Screenshots/rejection%20rate.png)
+
+### Cost by Insurance Company
+![Cost by Insurance](Screenshots/cost%20by%20insurance.png)
+
 ## Files Included
 - `Dashboard.pbix` – Power BI report  
 - `Fake_Data.xlsx` – Sample dataset  
@@ -22,10 +39,3 @@ The dataset is **fake** and does not represent real patient or insurance data.
 2. Open it in Power BI Desktop  
 3. Load the Excel file if needed  
 4. Explore the visuals and filters  
-## Dashboard Preview
-
-![Approval Summary](Screenshots/overall summary.png)
-![KPIs](Screenshots/kpis.png)
-![Department Performance](Screenshots/approval vs dep.png)
-![Rejection Rate](Screenshots/rejection rate.png)
-![Insurance Cost](Screenshots/cost by insurance.png)
