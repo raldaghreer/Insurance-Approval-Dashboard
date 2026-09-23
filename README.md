@@ -23,7 +23,7 @@ The dataset used is a **fake Excel file** created only for practice and demonstr
 The dataset is **fake** and does not represent real patient or insurance data.
 
 ## How to Use
-1. Download the `.pbix` file  
+1. Download the `Insurance-Approval-Dashboard.pbix` file  
 2. Open it in Power BI Desktop  
 3. Load the Excel file if needed  
 4. Explore the visuals and filters  
